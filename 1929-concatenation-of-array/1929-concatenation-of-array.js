@@ -4,17 +4,13 @@
  */
 var getConcatenation = function (nums) {
     let ans = []
-    for (let i = 0; i < nums.length; i++) {
-        ans[i] = nums[i]
+    let n = nums.length
+    for (let i = 0; i < 2 * n; i++) {
+        ans[i] = 0
     }
-    let final_length = ans.length * 2
-    let count = ans.length
-    let prev_pointer = 0
-    for (let i = count; i < final_length; i++) {
-        if (prev_pointer < count) {
-            ans[i] = nums[prev_pointer]
-            prev_pointer++
-        }
+    for (let i = 0; i < n; i++) {
+        ans[i] = nums[i]
+        ans[i + n] = nums[i]
     }
     return ans
 };
