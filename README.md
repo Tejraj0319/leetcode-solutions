@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1920-build-array-from-permutation](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Trie
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
