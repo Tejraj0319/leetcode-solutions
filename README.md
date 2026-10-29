@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -186,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
