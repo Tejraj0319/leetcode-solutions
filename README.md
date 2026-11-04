@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/Tejraj0319/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3866-first-unique-even-element](https://github.com/Tejraj0319/leetcode-solutions/tree/master/3866-first-unique-even-element) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tejraj0319/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/Tejraj0319/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/Tejraj0319/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
